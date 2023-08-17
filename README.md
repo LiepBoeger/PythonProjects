@@ -1,6 +1,6 @@
-# ProjetosPython
-Repositório para guardar alguns pequenos projetos feitos em Python! 🐍
+# PythonProjects
+Repository to keep some small projects done in Python! 🐍
 
-No momento, apenas tenho 2 projetos, um minigame e um mercado.
+Currently, I have only 2 projects, a minigame, and a marketplace.
 
-Quando sobrar mais tempo, pretendo continuar evoluindo meus conhecimentos e criando novos projetos!
+When I have more free time, I intend to keep advancing my skills and creating new projects!

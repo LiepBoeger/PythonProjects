@@ -1,5 +1,5 @@
 # PythonProjects
-Repository to keep some small projects done in Python! 🐍
+Repository to keep some small projects made with Python! 🐍
 
 Currently, I have only 2 projects, a minigame, and a marketplace.
 
